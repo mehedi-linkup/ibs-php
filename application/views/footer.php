@@ -1,0 +1,1 @@
+<footer><p>All right reserved. by: <a href="#">Vendor Management</a><!--<span style="float:right;">Designed & Developed by: <a href="http://www.linktechbd.com"><img alt="link-up-technology" style="valign:bottom; margin-left:5px; width:120px;" src="http://www.linktechbd.com/images/linkup_footer_logo.png"></a></span>--></p></footer>
